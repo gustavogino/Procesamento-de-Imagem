@@ -17,4 +17,6 @@ O arquivo main-maça.py, é para pegar a imagem maca.ppm (onde contem uma maça 
 * Gera-se a imagem:
 * * maca1.ppm : é a imagem original porém com a cor da maça alterada para azul
 
------------------
+-------------------------
+
+Gustavo Gino Scotton    |   Engenharia da Computação - UFSC   |   gustavo.gino@outlook.com
