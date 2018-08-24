@@ -6,10 +6,9 @@ Processamento de Imagens utilizando Python 3.6
 
 <h3>Sumário:</h3>
 
-* [1] Primeiros Passos  <i>(1-primeiros-passos)</i>
-
-- Dar brilho e inverter imagens monocromáticas(preto e branco) e RGB(coloridas)
-- Alterar cor de um objeto com base na inspeção de cores do cubo RGB.
+<b> [1] Primeiros Passos</b>  <i>(1-primeiros-passos)</i><br>
+Dar brilho e inverter imagens monocromáticas(preto e branco) e RGB(coloridas)
+Alterar cor de um objeto com base na inspeção de cores do cubo RGB.
 
 * [2] 
 
