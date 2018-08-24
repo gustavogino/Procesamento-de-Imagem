@@ -1,4 +1,4 @@
-<h2>Metodos de seleção dos pixeis de uma imagem</h2>
+<h2>Metodos de seleção dos pixels de uma imagem</h2>
 
 O python, juntamente com a biblioteca OpenCV, permite trabalhar de forma mais simples utilizando diretamenet imagens .jpg, portanto, deste momento em diante, são extenções mais conhecidas que começarei a utilizar. Em questão, irei trabalhar com a imagem de uma estrela do mar(estrela.jpg), tentando seleciona-la e consequentemenete, separando-a do fundo.
 
@@ -17,7 +17,7 @@ O arquivo "estrela-vizinho.py", trabalha na forma de <b>K-vizinhos</b>, ou seja,
 
 O método da <b>Distância de Mahalanobis</b> é o mais complexo na minha opinião. Uma explicação mais detalhada deste metodo pode ser encontrada <a href="https://pt.wikipedia.org/wiki/Dist%C3%A2ncia_de_Mahalanobis"> AQUI </a>.
 
-* O arquivo mahalanobis.py é responsavel pela seleção da imagem utilizando a distância de mahalanobis.
+* O arquivo "estrela-mahalanobis.py" é responsavel pela seleção da imagem utilizando a distância de mahalanobis.
 * * estrela-mahalanobis.jpg : é a resultante do método aplicado.
 
 -------------------------
