@@ -13,3 +13,8 @@ Processamento de Imagens utilizando Python 3.6
 <b> [2]<a href="http://github.com/gustavogino/procesamentodeimagem/tree/master/2-metodos-selecao"> Metodos de seleção</a></b>  <i>(2-metodos-selecao)</i><br>
 -> Dar brilho e inverter imagens monocromáticas(preto e branco) e RGB(coloridas)<br>
 -> Alterar cor de um objeto com base na inspeção de cores do cubo RGB.
+
+
+-------------------------
+
+Gustavo Gino Scotton    |   Engenharia da Computação - UFSC   |   gustavo.gino@outlook.com
