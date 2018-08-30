@@ -1,4 +1,4 @@
-<h2>Sobreposição gradul e subtração em imagens</h2>
+<h2>Sobreposição gradual e subtração em imagens</h2>
 
 A descrever.
 
