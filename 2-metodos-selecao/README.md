@@ -2,7 +2,8 @@
 
 O python, juntamente com a biblioteca OpenCV, permite trabalhar de forma mais simples utilizando diretamente imagens .jpg, portanto, deste momento em diante, são extenções mais conhecidas que começarei a utilizar. Em questão, irei trabalhar com a imagem de uma estrela do mar(estrela.jpg), tentando seleciona-la e consequentemenete, separando-a do fundo.
 
-*<b> O arquivo "main.py" nada mais é que um menu para as funções dos arquivos seguintes, porém, tudo contido em um unico ".py".</b>
+<b> O arquivo "main.py" é um menu para as funções dos outros arquivos, porém, tudo contido em um unico ".py".</b>
+<i> Ou seja, é um código contendo todos os outros códigos, um simples Ctrol-C ctrol-V com acréscimo de um menu de seleção.</i>
 
 
 
