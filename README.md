@@ -10,7 +10,7 @@ Processamento de Imagens utilizando Python 3.6
 -> Dar brilho e inverter imagens monocromáticas(preto e branco) e RGB(coloridas)<br>
 -> Alterar cor de um objeto com base na inspeção de cores do cubo RGB.
 <br><br>
-<b> [2]<a href="http://github.com/gustavogino/procesamentodeimagem/tree/master/2-metodos-selecao"> Metodos de seleção</a></b>  <i>(2-metodos-selecao)</i><br>
+<b> [2]<a href="http://github.com/gustavogino/procesamentodeimagem/tree/master/2-metodos-selecao"> Métodos de seleção</a></b>  <i>(2-metodos-selecao)</i><br>
 -> Trabalhar com figuras geométricas dentro do cubo RGB<br>
 -> Pintar figura selecionada utilizando diversos métodos.
 
