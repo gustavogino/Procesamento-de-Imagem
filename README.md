@@ -3,6 +3,8 @@
 Processamento de Imagens utilizando Python 3.6
 
 * Cada pasta contem o avanço no aprendizado de processamento de imagens, procurarei sempre detalhar no README.md a explicação resumida do que cada arquivo realiza.
+* Utiliza-se a biblioteca do OpenCV (cv2)
+<i> A mesma pode ser adquirida atravez do <b>pip install opencv-python</b>
 
 <h3>Índice:</h3>
 
