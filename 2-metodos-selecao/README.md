@@ -18,8 +18,9 @@ O mesmo ocorre para o outro arquivo, porém agora trabalhamos com uma esfera RGB
 * * A imagem a ser utilizada tal como os pontos de corte RGB e raio, podem ser digitados pelo usuário.
 * * Os valores para RGB variam de 0 a 255  (se a imagem tiver 8 bits) 
 
-O arquivo "vizinho.py", trabalha na forma de <b>K-vizinhos</b>, ou seja, pega-se vários pontos distintos da imagem em que se quer selecionar, e aplica a seleção para cada uma delas, neste exemplo utilizei a seleção com esfera para cada ponto.
+O arquivo "kvizinho.py", trabalha na forma de <b>K-vizinhos</b>, ou seja, pega-se vários pontos distintos da imagem em que se quer selecionar, e aplica a seleção para cada uma delas, neste exemplo utilizei a seleção com esfera para cada ponto.
 * * A imagem a ser utilizada tal como os pontos de corte RGB e raio, podem ser digitados pelo usuário.
+* * No caso dos pontos RGB, podem ser clicados na imagem para ser adquiridos. (Código atualizado na main.py)
 
 O método da <b>Distância de Mahalanobis</b> é o mais complexo na minha opinião. Uma explicação mais detalhada deste metodo pode ser encontrada <a href="https://pt.wikipedia.org/wiki/Dist%C3%A2ncia_de_Mahalanobis"> AQUI </a>.
 
