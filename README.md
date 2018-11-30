@@ -20,6 +20,22 @@ Processamento de Imagens utilizando Python 3.6
 -> Sobrepor uma imagem com outro com certo grau de opacidade.<br>
 -> Gerar uma seguencia de imagens mudando o grau de opacidade para gerar uma transição suave.<br>
 -> Subtrair uma imagem da outra, removendo itens que se "movem".
+<br><br>
+<b> [4]<a href="https://github.com/gustavogino/Procesamento-de-Imagem/tree/master/4-Adi%C3%A7%C3%A3o%20e%20Subtra%C3%A7%C3%A3o"> Adição e Subtração</a></b> <br>
+-> Subtração e adição em imagens.<br>
+<br><br>
+<b> [5]<a href="https://github.com/gustavogino/Procesamento-de-Imagem/tree/master/5-Algoritmo%20de%20Convolu%C3%A7%C3%A3o"> Algoritmo de Convolução</a></b> <br>
+<br><br>
+<b> [6]<a href="https://github.com/gustavogino/Procesamento-de-Imagem/tree/master/6-Detec%C3%A7%C3%A3o%20de%20Borda"> Detecção de Borda</a></b><br>
+<br><br>
+<b> [7]<a href="https://github.com/gustavogino/Procesamento-de-Imagem/tree/master/7-Metodos%20de%20Sele%C3%A7%C3%A3o"> Metodos de Seleção</a></b><br>
+<br><br>
+<b> [8]<a href="https://github.com/gustavogino/Procesamento-de-Imagem/tree/master/8-Segmenta%C3%A7%C3%A3o%20de%20Cores"> Segmentação de Cores</a></b>  <br>
+<br><br>
+<b> [9]<a href="https://github.com/gustavogino/Procesamento-de-Imagem/tree/master/9-Selecao%20Caracter">Selecao Caracter</a></b><br>
+<br><br>
+<b> [10]<a href="https://github.com/gustavogino/Procesamento-de-Imagem/tree/master/10-Troca%20de%20rostos"> Troca de Rostos (faces)</a></b> 
+
 
 
 -------------------------
